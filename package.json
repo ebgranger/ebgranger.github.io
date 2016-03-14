@@ -1,0 +1,23 @@
+{
+  "name": "ebgranger.github.io",
+  "version": "1.0.0",
+  "description": "My personal website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ebgranger/ebgranger.github.io.git"
+  },
+  "author": "Edward Granger",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ebgranger/ebgranger.github.io/issues"
+  },
+  "homepage": "https://github.com/ebgranger/ebgranger.github.io#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-inline-css": "^3.1.0"
+  }
+}
