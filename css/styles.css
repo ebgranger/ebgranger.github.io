@@ -4,6 +4,16 @@
     "Fira Sans", "Droid Sans", "Helvetica Neue", 
     sans-serif;
 }
+
+.center-hack {
+	text-align: center;
+}
+
 .container {
 	margin: 0 auto;
+}
+
+.center-hack__child {
+	display: inline-block;
+	text-align: left;
 }
