@@ -1,4 +1,4 @@
-<span id="h.gjdgxs" class="anchor"></span>Edward Granger
+Edward Granger
 
 151 Waterlynn Ridge Rd. Apt 308, Mooresville, NC 28117
 
