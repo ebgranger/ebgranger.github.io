@@ -6,7 +6,7 @@ Cell: (xxx)-xxx-xxxx
 
 email
 
-**Education:**
+##Education:##
 
 > **Bachelor of Science in Digital Information Design, Web Application
 > Design concentration**
@@ -48,7 +48,7 @@ email
 
 -   Work across front end and backend in Node stack and 
 
-**Internships**
+**Internships:**
 
 ***QA at INsite Business Solutions,*** Rock Hill, SC October 2013 –
 January 2014
@@ -57,8 +57,6 @@ January 2014
 
 -   Gaining a better understanding of ASP.NET and software development
 
--   Additional experience in an Agile development environment
-
 **PHP Web Development at Blue Acorn,** Charleston, SC May 2013 –
 August 2013
 
@@ -66,10 +64,6 @@ August 2013
 
 -   Used RESTful API and PHP to generate PDF reports to deliver to
     clients
-
--   Attended weekly training sessions in Magento e-commerce framework
-
--   Worked in agile development environment
 
 **Webmaster for The Johnsonian at Winthrop,** Rock Hill, SC August 2012
 – May 2013
