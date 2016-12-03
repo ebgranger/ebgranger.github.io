@@ -2,9 +2,9 @@
 
 151 Waterlynn Ridge Rd. Apt 308, Mooresville, NC 28117
 
-Cell: (704)-575-8895
+Cell: (xxx)-xxx-xxxx
 
-<egrange77@gmail.com>[](mailto:egrange77@gmail.com)
+email
 
 **Education:**
 
@@ -22,18 +22,20 @@ Cell: (704)-575-8895
 
 > **Languages/Libraries:**
 
--   JavaScript, HTML5/CSS, XML, AJAX, jQuery, LESS
+-   JavaScript, HTML5/CSS, jQuery, LESS, Node.JS 
 
--   Familiarity and implementation level experience in Node.JS, PHP,
-    JSTL/JSP markup
+-   Familiarity and implementation level experience in Node.JS(Hapi Framework), 
+    JSTL/JSP markup, and Adobe CQ
 
--   Light experience in C++, ASP.NET, Java, SASS, AngularJS
+-   Light familiarity and implementation expenrience in PHP
+
+-   Very light familiarity in C++, ASP.NET, Java, SASS, AngularJS
 
 > **Software Tools:**
 
--   Sublime Text, IntelliJ, Git, NPM and other package managers
+-   Sublime Text, IntelliJ, Git, NPM
 
-> Grunt, Gulp, Gradle, Docker, UNIX Terminal
+-   Grunt, Gulp, Docker, UNIX Terminal
 
 **Related Experience:**
 
@@ -42,13 +44,13 @@ Cell: (704)-575-8895
 
 -   Front End developer for Lowes.com
 
--   Implemented redesign for new mobile site product list page(ongoing)
+-   Implemented redesign in both greenfield and legacy platforms on Lowes.com(April 2016)
 
--   Implementing new framework on legacy JSTL pages(ongoing)
+-   Work across front end and backend in Node stack and 
 
--   Have quickly impressed, lead developer for my team
+**Internships**
 
-**QA Intern at INsite Business Solutions,** Rock Hill, SC October 2013 –
+***QA at INsite Business Solutions,*** Rock Hill, SC October 2013 –
 January 2014
 
 -   Quality Assurance for RunMyClub.com, developed test cases/found bugs
@@ -57,7 +59,7 @@ January 2014
 
 -   Additional experience in an Agile development environment
 
-**PHP Web Development Intern at Blue Acorn,** Charleston, SC May 2013 –
+**PHP Web Development at Blue Acorn,** Charleston, SC May 2013 –
 August 2013
 
 -   Worked on internal project for client website performance reporting
@@ -84,9 +86,7 @@ August 2012
     -   [*marketingontrial.com*](http://www.marketingontrial.com)[](http://www.marketingontrial.com)
         and *hammerandgumption.com*
 
--   Learned about the trades of SEO and inbound marketing
-
--   Learned to use Google Analytics, Webmaster Tools, and RavenTools.
+    -   Learned to use Google Analytics/Webmaster Tools.
 
 **Community Service:**
 
